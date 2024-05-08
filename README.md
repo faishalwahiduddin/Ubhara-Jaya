@@ -9,6 +9,8 @@
   
 ![Ubhara Jaya](https://github.com/faishalwahiduddin/Ubhara-Jaya/assets/15316893/0c0a1d57-9987-49e6-8a5d-36c4ecf60e52)
 
+## 🖥️ Tech Stack
+![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
 ## 📬 Contact
 
